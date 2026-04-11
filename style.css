@@ -541,15 +541,15 @@ color: #f5d5dc;
 }
 
 .green-1::before {
-  background-image: url('img/green_back_1.png');
+  background-image: url('img/green_back_1.webp');
 }
 
 .green-2::before {
-  background-image: url('img/green_back_2.png');
+  background-image: url('img/green_back_2.webp');
 }
 
 .green-3::before {
-  background-image: url('img/geen_back_3.png');
+  background-image: url('img/geen_back_3.webp');
 }
 
 /* АДАПТИВ */

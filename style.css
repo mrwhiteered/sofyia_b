@@ -168,7 +168,7 @@ body::after {
 /* СЕКЦИИ */
 .light{
   background:#fff0f3;
-  padding:35px 0;
+  padding:65px 0;
   color:#6f8f3d;
 }
 
@@ -264,6 +264,7 @@ h3{
   text-align:center;
   font-weight: 900;
   transition: all 0.2s ease;
+  margin-top: 30px;
 }
 
 .btn:hover{
@@ -373,6 +374,10 @@ h3{
 
 .terapy{
   color: #f5d5dc;
+  margin-bottom: 50px;
+}
+.pill_font{
+  
 }
 
 /* СЛАЙДЕР (улучшен) */

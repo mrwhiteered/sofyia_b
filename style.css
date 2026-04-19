@@ -572,6 +572,8 @@ color: #f5d5dc;
   .hero-sub { font-size:16px; max-width:700px; }
   .wra_wrap{
     max-width:800px; 
+    display: block;
+        margin: 0 auto;
   }
 }
 
